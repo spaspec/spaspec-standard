@@ -1,5 +1,5 @@
-# s4-specs
+# spaspec-standard
 
-Static Server Standard Specifications
+Static Page Application Specification Standard
 
 Initial work at https://github.com/isaacs/github/issues/408.
